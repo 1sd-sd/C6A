@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-11-04T15:36:28+08:00",
+  "workspace": "D:\\.cogseed\\userWorkSpace\\我的挑战有哪些",
+  "totals": {
+    "challenges": 19,
+    "students": 2,
+    "submission_groups": 22,
+    "files": 497,
+    "complete": 4,
+    "partial": 11,
+    "unverified": 7,
+    "missing_ai_log": 10,
+    "naming_violations": 8
+  },
+  "students": [
+    "lishengdan",
+    "（未署名）"
+  ],
+  "by_challenge": [
+    {
+      "challenge": "C2",
+      "title": "C2 AI for Math 论文",
+      "students": [
+        "（未署名）"
+      ],
+      "complete": 1,
+      "partial": 0,
+      "unverified": 0
+    },
+    {
+      "challenge": "C2A",
+      "title": "C2A / C9：衡量 AGI 的认知能力",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 0,
+      "partial": 2,
+      "unverified": 0
+    },
+    {
+      "challenge": "C2G",
+      "title": "C2G 参数高尔夫 —— 极限约束下的语言模型训练",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 1,
+      "partial": 0,
+      "unverified": 1
+    },
+    {
+      "challenge": "C4",
+      "title": "C4 技能分享与传播",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 0,
+      "partial": 1,
+      "unverified": 1
+    },
+    {
+      "challenge": "C4A",
+      "title": "C4A 技能提交自动评审",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 1,
+      "partial": 0,
+      "unverified": 1
+    },
+    {
+      "challenge": "C4B",
+      "title": "C4B 公众号文章生成技能",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 1,
+      "partial": 0,
+      "unverified": 1
+    },
+    {
+      "challenge": "C4C",
+      "title": "C4C 作业自动求解与排版",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 0,
+      "partial": 1,
+      "unverified": 1
+    },
+    {
+      "challenge": "C4D",
+      "title": "C4D 本地大模型 Agent 技能",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 0,
+      "partial": 1,
+      "unverified": 1
+    },
+    {
+      "challenge": "C5",
+      "title": "C5 GitHub Repository",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 0,
+      "partial": 2,
+      "unverified": 0
+    },
+    {
+      "challenge": "C5A",
+      "title": "C5A GitHub 入门与仓库理解",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 0,
+      "partial": 2,
+      "unverified": 0
+    },
+    {
+      "challenge": "C6",
+      "title": "C6 Web Application",
+      "students": [
+        "lishengdan",
+        "（未署名）"
+      ],
+      "complete": 0,
+      "partial": 1,
+      "unverified": 1
+    },
+    {
+      "challenge": "C9",
+      "title": "C9 Self-Initiated Project（自驱项目）",
+      "students": [
+        "lishengdan"
+      ],
+      "complete": 0,
+      "partial": 1,
+      "unverified": 0
+    }
+  ]
+}

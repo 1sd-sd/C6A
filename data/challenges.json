@@ -1,0 +1,245 @@
+{
+  "C10": {
+    "code": "C10",
+    "challenge_uid": "ch-20260717031601-4cwlrx",
+    "title": "C10 Build Your Own Agent（构建你的长期智能体 / 第二大脑）",
+    "deliverable_patterns": [
+      "AGENT.md",
+      "*architecture*",
+      "*AAR*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C10 Build Your Own Agent（构建你的长期智能体 第二大脑）_4cwlrx_完整资料",
+    "rubric_points": 100
+  },
+  "C10H": {
+    "code": "C10H",
+    "challenge_uid": "ch-20260717031609-rnur5a",
+    "title": "C10H 安装并驾驭 Hermes Agent",
+    "deliverable_patterns": [
+      "*安装记录*",
+      "*配置说明*",
+      "*demo*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C10H 安装并驾驭 Hermes Agent_rnur5a_完整资料",
+    "rubric_points": 100
+  },
+  "C2": {
+    "code": "C2",
+    "challenge_uid": "ch-20260717031343-8ot0ji",
+    "title": "C2 AI for Math 论文",
+    "deliverable_patterns": [
+      "paper.tex",
+      "references.bib",
+      "*AI日志*",
+      "*AAR*"
+    ],
+    "materials_dir": "挑战_C2 AI for Math 论文_8ot0ji_完整资料",
+    "rubric_points": 100
+  },
+  "C2A": {
+    "code": "C2A",
+    "challenge_uid": "ch-20260717031352-tlg70p",
+    "title": "C2A / C9：衡量 AGI 的认知能力",
+    "deliverable_patterns": [
+      "*proposal*",
+      "*benchmark*",
+      "*AI日志*",
+      "*AAR*"
+    ],
+    "materials_dir": "挑战_C2A C9：衡量 AGI 的认知能力_tlg70p_完整资料",
+    "rubric_points": 100
+  },
+  "C2G": {
+    "code": "C2G",
+    "challenge_uid": "ch-20260717031359-b8wyg0",
+    "title": "C2G 参数高尔夫 —— 极限约束下的语言模型训练",
+    "deliverable_patterns": [
+      "*方案草案*",
+      "*方案设计*",
+      "*AI日志*",
+      "*AAR*"
+    ],
+    "materials_dir": "挑战_C2G 参数高尔夫 —— 极限约束下的语言模型训练_b8wyg0_完整资料",
+    "rubric_points": 100
+  },
+  "C3": {
+    "code": "C3",
+    "challenge_uid": "ch-20260717031407-ez6fae",
+    "title": "C3 群内高质量参与",
+    "deliverable_patterns": [
+      "*AI日志*",
+      "*AAR*",
+      "*反思*"
+    ],
+    "materials_dir": "挑战_C3 群内高质量参与_ez6fae_完整资料",
+    "rubric_points": 100
+  },
+  "C3C": {
+    "code": "C3C",
+    "challenge_uid": "ch-20260717031415-0vi5d1",
+    "title": "C3C 双人协作与技能迁移",
+    "deliverable_patterns": [
+      "*协作记录*",
+      "*联合成果*",
+      "*AI日志*",
+      "*AAR*"
+    ],
+    "materials_dir": "挑战_C3C 双人协作与技能迁移_0vi5d1_完整资料",
+    "rubric_points": 100
+  },
+  "C4": {
+    "code": "C4",
+    "challenge_uid": "ch-20260717031424-4cdgor",
+    "title": "C4 技能分享与传播",
+    "deliverable_patterns": [
+      "*skill说明*",
+      "*.skill",
+      "*教学说明*",
+      "*demo*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C4 技能分享与传播_4cdgor_完整资料",
+    "rubric_points": 100
+  },
+  "C4A": {
+    "code": "C4A",
+    "challenge_uid": "ch-20260717031432-5jvqje",
+    "title": "C4A 技能提交自动评审",
+    "deliverable_patterns": [
+      "*方案设计*",
+      "*skill-evaluator*",
+      "*评审报告*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C4A 技能提交自动评审_5jvqje_完整资料",
+    "rubric_points": 100
+  },
+  "C4B": {
+    "code": "C4B",
+    "challenge_uid": "ch-20260717031440-bp05rs",
+    "title": "C4B 公众号文章生成技能",
+    "deliverable_patterns": [
+      "*wechat-publisher*",
+      "*文章链接*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C4B 公众号文章生成技能_bp05rs_完整资料",
+    "rubric_points": 100
+  },
+  "C4C": {
+    "code": "C4C",
+    "challenge_uid": "ch-20260717031447-k82c4m",
+    "title": "C4C 作业自动求解与排版",
+    "deliverable_patterns": [
+      "*方案设计*",
+      "*homework-solver*",
+      "*output*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C4C 作业自动求解与排版_k82c4m_完整资料",
+    "rubric_points": 100
+  },
+  "C4D": {
+    "code": "C4D",
+    "challenge_uid": "ch-20260717031455-uzqs9k",
+    "title": "C4D 本地大模型 Agent 技能",
+    "deliverable_patterns": [
+      "*Agent技能*",
+      "*demo*",
+      "*AI日志*",
+      "*AAR*"
+    ],
+    "materials_dir": "挑战_C4D 本地大模型 Agent 技能_uzqs9k_完整资料",
+    "rubric_points": 100
+  },
+  "C5": {
+    "code": "C5",
+    "challenge_uid": "ch-20260717031503-ihozqu",
+    "title": "C5 GitHub Repository",
+    "deliverable_patterns": [
+      "README.md",
+      "*repo链接*",
+      "*AI日志*",
+      "*拿来说明*"
+    ],
+    "materials_dir": "挑战_C5 GitHub Repository_ihozqu_完整资料",
+    "rubric_points": 100
+  },
+  "C5A": {
+    "code": "C5A",
+    "challenge_uid": "ch-20260717031511-x5c6t1",
+    "title": "C5A GitHub 入门与仓库理解",
+    "deliverable_patterns": [
+      "*仓库分析*",
+      "README.md",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C5A GitHub 入门与仓库理解_x5c6t1_完整资料",
+    "rubric_points": 100
+  },
+  "C6": {
+    "code": "C6",
+    "challenge_uid": "ch-20260717031519-qqqx60",
+    "title": "C6 Web Application",
+    "deliverable_patterns": [
+      "*app链接*",
+      "*demo*",
+      "*repo链接*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C6 Web Application_qqqx60_完整资料",
+    "rubric_points": 100
+  },
+  "C6A": {
+    "code": "C6A",
+    "challenge_uid": "ch-20260717031528-w43gy7",
+    "title": "C6A 提交数据仪表盘",
+    "deliverable_patterns": [
+      "*仪表盘*",
+      "*demo*",
+      "*数据*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C6A 提交数据仪表盘_w43gy7_完整资料",
+    "rubric_points": 100
+  },
+  "C7": {
+    "code": "C7",
+    "challenge_uid": "ch-20260717031536-sfz852",
+    "title": "C7 内容传播",
+    "deliverable_patterns": [
+      "*文章标题*",
+      "*数据截图*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C7 内容传播_sfz852_完整资料",
+    "rubric_points": 100
+  },
+  "C8": {
+    "code": "C8",
+    "challenge_uid": "ch-20260717031544-7vw0rn",
+    "title": "C8 Real-World Project Execution（真实项目落地）",
+    "deliverable_patterns": [
+      "*proposal*",
+      "*AAR_W*",
+      "*AI日志*",
+      "*拿来说明*"
+    ],
+    "materials_dir": "挑战_C8 Real-World Project Execution（真实项目落地）_7vw0rn_完整资料",
+    "rubric_points": 100
+  },
+  "C9": {
+    "code": "C9",
+    "challenge_uid": "ch-20260717031553-t2892g",
+    "title": "C9 Self-Initiated Project（自驱项目）",
+    "deliverable_patterns": [
+      "*proposal*",
+      "*AAR_W*",
+      "*AI日志*"
+    ],
+    "materials_dir": "挑战_C9 Self-Initiated Project（自驱项目）_t2892g_完整资料",
+    "rubric_points": 100
+  }
+}
