@@ -29,6 +29,8 @@ C6A提交成果/
 ├── src/                               # 扫描器 / Excel 生成器 / 仪表盘生成器
 ├── 截图/lishengdan_C6A_仪表盘_总览.png # 真实渲染截图
 ├── lishengdan_C6A_report.xlsx         # Excel 五表
+├── lishengdan_C6A_数据_汇总视图.csv    # 按挑战的平面汇总（Excel 可直接开）
+├── lishengdan_C6A_demo.md             # 演示与复现脚本 + 数据快照口径说明
 ├── lishengdan_C6A_方案设计.md
 ├── lishengdan_C6A_教学说明.md
 ├── lishengdan_C6A_AAR.md
@@ -41,7 +43,7 @@ C6A提交成果/
 | 指标 | 数值 |
 |---|---|
 | 挑战注册表 | 19 个（自动解析自 challenge.json 的 deliverables 字段） |
-| 扫描范围 | 11 个提交文件夹 / 499 个文件 |
+| 扫描范围 | 11 个提交文件夹 / 497 个文件（快照时间 15:36，口径见 `lishengdan_C6A_demo.md` 第四节） |
 | 提交组（学生×挑战） | 22 组 |
 | ✅ 交付物齐全 | 4 组 |
 | ⚠️ 部分提交 | 11 组 |
