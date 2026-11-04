@@ -73,6 +73,6 @@ python make_dashboard.py       # → dashboard/index.html + data.js
 |---|---|
 | 汇总数据（按挑战的平面视图，Excel 可直接开） | `lishengdan_C6A_数据_汇总视图.csv` |
 | 原始数据 | `data/summary.json`、`data/submissions.json`、`data/challenges.json`、`data/submissions.csv` |
-| 仪表盘截图 | `截图/lishengdan_C6A_仪表盘_总览.png` |
+| 仪表盘截图 | `lishengdan_C6A_仪表盘_总览.png` |
 | 方案与权衡 | `lishengdan_C6A_方案设计.md` |
 | 误报治理的完整过程 | `lishengdan_C6A_AAR.md` |

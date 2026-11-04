@@ -27,7 +27,7 @@ C6A提交成果/
 ├── data/                              # 结构化数据（JSON×3 + CSV）
 ├── dashboard/index.html + data.js     # 本地仪表盘（离线可用）
 ├── src/                               # 扫描器 / Excel 生成器 / 仪表盘生成器
-├── 截图/lishengdan_C6A_仪表盘_总览.png # 真实渲染截图
+├── lishengdan_C6A_仪表盘_总览.png     # 真实渲染截图
 ├── lishengdan_C6A_report.xlsx         # Excel 五表
 ├── lishengdan_C6A_数据_汇总视图.csv    # 按挑战的平面汇总（Excel 可直接开）
 ├── lishengdan_C6A_demo.md             # 演示与复现脚本 + 数据快照口径说明
